@@ -1,4 +1,4 @@
-package org.chandima.jobapp.service;
+package org.chandima.jobapp.model;
 
 import org.chandima.jobapp.model.User;
 import org.springframework.security.core.GrantedAuthority;
